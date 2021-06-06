@@ -1,4 +1,4 @@
-# Week4 - PACMAN Direction
+# Week 4 - PACMAN Direction
 
 Exercise developed during the course MIT xPro. Detects the edges of the screen and changing the image and direction of a PACMAN.
 
